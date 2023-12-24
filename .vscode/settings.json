@@ -1,0 +1,5 @@
+{
+  "luau-lsp.sourcemap.rojoProjectFile": "package.project.json",
+  "robloxLsp.workspace.rojoProjectFile": "package",
+  "json.schemaDownload.enable": true
+}

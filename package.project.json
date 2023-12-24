@@ -1,0 +1,9 @@
+{
+  "name": "capstore2",
+  "tree": {
+    "$path": "Packages",
+    "capstore2": {
+      "$path": "src"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+local CapStoreServer = {}
+
+return CapStoreServer
